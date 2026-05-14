@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Hola+%F0%9F%96%90%EF%BC%8C+soy+Catsandi!;Full+Stack+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/salesp07/salesp07/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/salesp07/salesp07/assets/github-snake.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/salesp07/salesp07/assets/github-snake.svg" width="100%" alt="snake animation" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Catsandi06/Catsandi06/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Catsandi06/Catsandi06/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Catsandi06/Catsandi06/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+</picture>
+
+> 🐍 *La animación aparecerá automáticamente tras el primer run del Action*
 
 ---
 
@@ -136,6 +136,7 @@ frase_favorita: "El código es poesía que cobra vida"
   <br/><br/>
   <img src="https://img.shields.io/badge/Dinamita-👨‍💻-blue?style=social" />
 </div>
+
 
 
 <!--
