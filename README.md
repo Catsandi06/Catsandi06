@@ -3,7 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/salesp07/salesp07/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/salesp07/salesp07/assets/github-snake.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/salesp07/salesp07/assets/github-snake.svg" width="100%" alt="snake animation" />
+  </picture>
 </div>
 
 ---
@@ -32,10 +36,10 @@ frase_favorita: "El código es poesía que cobra vida"
 <h2 align="center">📊 Estadísticas de GitHub 📊</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catsandi06&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catsandi06&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Catsandi06&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Catsandi06&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Catsandi06&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Catsandi06&theme=radical" alt="Profile Summary" />
 </div>
 
 ---
@@ -92,9 +96,6 @@ frase_favorita: "El código es poesía que cobra vida"
   </a>
   <a href="https://twitter.com/Catsandi06" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://dev.to/Catsandi06" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://discord.gg/catsandi06" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
